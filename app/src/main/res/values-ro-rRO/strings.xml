@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">JustJava</string>
+    <string name="enter_your_name">Introduceti numele d-voastra</string>
+    <string name="price">Pretul</string>
+    <string name="order">Comanda acum</string>
+    <string name="reset">Reseteaza</string>
+    <string name="toppings">Ingrediente</string>
+    <string name="whipped_cream">Frisca</string>
+    <string name="chocolate">Ciocolata</string>
+    <string name="quantity">cantitate</string>
+    <string name="order_sumary">Sumarul comenzii :</string>
+    <string name="quantity2">Cantatitatea :</string>
+    <string name="name">Nume :</string>
+    <string name="add_whipped">"Doriti frisca? "</string>
+    <string name="add_chocolate">"Doriti ciocolata? "</string>
+    <string name="total">"Rest plata "</string>
+    <string name="you_cannot_under0">Alegeti cel putin o cafea.</string>
+    <string name="you_cannot_under">Alegeti cel putin o cafea.</string>
+</resources>
